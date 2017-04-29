@@ -1,0 +1,9 @@
+{
+  "name": "kinematic-debug-server",
+  "version": "0.0.0",
+  "description": "KinematicDebugServer",
+  "main": "app.js",
+  "author": {
+    "name": "Frederic"
+  }
+}
